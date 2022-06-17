@@ -4,5 +4,7 @@
   "showLineNumber": true,
   "spellcheck": true,
   "fileSortOrder": "byCreatedTimeReverse",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "Databases",
+  "vimMode": false
 }
