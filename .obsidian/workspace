@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "f63472f0ccc7e4de",
+    "type": "split",
+    "children": [
+      {
+        "id": "809540f0c7825e8a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SDU/Development ideas.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0601cffe4cab64cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffdcc85e3d21e81c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48dec9e482eac912",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3321c02992b1848",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c01b4328ab59ad2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5441a6297343bf0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f37c223953371f14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SDU/Development ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "809540f0c7825e8a",
+  "lastOpenFiles": [
+    "SDU/Development ideas.md",
+    "SCO/Views.md",
+    "SCO/Security and permissions.md",
+    "SCO/Unit testing.md",
+    "SCO/Stored procedures.md",
+    "SCO/JDBC.md",
+    "Databases/Why databases?.md",
+    "Databases/SQL.md",
+    "Databases/Normalization.md",
+    "Databases/Relational model.md"
+  ]
+}
