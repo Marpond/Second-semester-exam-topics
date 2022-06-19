@@ -18,7 +18,6 @@ Failure to realize that many shortcomings are not unique to file systems will re
 5.  Extensive programming
 - Any change to a file structure forces modifications to all the programs that are accessing that file.
     
-
 ## Data redundancy
 When the same data are stored unnecessarily at different places. 
 Sets the stage for data inconsistency and poor data security.
@@ -35,7 +34,7 @@ When different and conflicting versions of the same data appear in different pla
 1. A collection of programs that manage the database structure and control access to the data stored in the database.
 2. It is the intermediary between the user and the database.
 3. Enables the data to be shared among many applications/users.
-4. Integrates different views of the data into one data reposository.
+4. Integrates different views of the data into one data repository.
 5. Minimizes data inconsistency.
 
 **Functions (not all)**
@@ -50,4 +49,4 @@ A specific request for data manipulation.
 Data about data, through which the end-user data are integrated and managed.
 
 ## Data dictionary
--Contains definitions of the data elements and their relationships.
+Contains definitions of the data elements and their relationships.

@@ -1,11 +1,9 @@
--   The relational model is an approach to managing data. All data is represented in terms of tuples, grouped into relations.
-    
+The relational model is an approach to managing data. All data is represented in terms of tuples, grouped into relations.
 
 ## **E/R Model**
 
 ####  Entity
 An irl thing (physical or conceptual existence).
-    
 
 #####  Attributes
 Properties that describe the entities.
@@ -28,7 +26,5 @@ Tables are the basic building blocks of a relational database. Entity sets, aka 
 
 **Relationships**
 1.  1:1
-    
 2.  1:*
-    
-3.  *:*
+3.  * : *

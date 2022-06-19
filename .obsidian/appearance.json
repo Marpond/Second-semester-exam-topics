@@ -3,5 +3,6 @@
   "monospaceFontFamily": "JetBrains Mono",
   "textFontFamily": "Arial",
   "interfaceFontFamily": "Cantarell",
-  "cssTheme": ""
+  "cssTheme": "",
+  "baseFontSize": 16
 }

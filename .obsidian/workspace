@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Todo.md",
+            "file": "SD/Architecture.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "SD/Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "809540f0c7825e8a",
   "lastOpenFiles": [
+    "SD/Architecture.md",
+    "JAVA/Processes and threads.md",
+    "JAVA/Collections.md",
+    "JAVA/Objects, methods and inheritance.md",
+    "JAVA/General topics.md",
+    "SD/GRASP.md",
+    "SD/SCRUM.md",
     "Todo.md",
-    "Databases/SQL.md",
-    "Databases/Normalization.md",
-    "Databases/Relational model.md",
-    "Databases/Why databases?.md",
-    "SCO/Unit testing.md",
-    "SCO/Security and permissions.md",
-    "SCO/Stored procedures.md",
-    "SCO/Views.md",
-    "SCO/JDBC.md"
+    "SD/Requirements.md",
+    "Pasted image 20220619205659.png"
   ]
 }
