@@ -6,6 +6,6 @@
   "fileSortOrder": "byCreatedTimeReverse",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "Databases",
-  "vimMode": false,
+  "vimMode": true,
   "promptDelete": false
 }
