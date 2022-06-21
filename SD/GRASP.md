@@ -21,7 +21,7 @@ We don't want unrelated objects to be connected to each other.
 A class specifically designed for a purpose, it has no meaning in the domain model.
 
 ## 7. Polymorphism
-How to handle related but varying elements based on element type? Which object is responsible for handling those varying elements.
+To handle related but varying elements based on element type. Which object is responsible for handling those varying elements.
 
 ## 8. Indirection
 Create an intermediate object between other components or services so that they are not directly coupled.

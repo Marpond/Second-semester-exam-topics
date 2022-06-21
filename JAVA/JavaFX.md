@@ -41,3 +41,43 @@ To create a chart, you need to −
 3. Prepare and pass data to the chart
 
 ## UI controls
+Core visual elements, user interacts with these.
+
+## 2D shapes
+XY
+- Rectangle
+- Circle
+- Line
+- Ellipse
+
+## 3D shapes
+XYZ
+- Cylinder
+- Box
+- Sphere
+
+## Binding
+
+
+## Animation
+Transition
+```java
+translateTransition.setDuration(Duration.millis(1000)); 
+
+translateTransition.setNode(circle); 
+
+translateTransition.setByX(300); 
+
+translateTransition.setCycleCount(50); 
+
+translateTransition.setAutoReverse(false); 
+
+translateTransition.play();
+```
+Timeline
+```java
+Timeline timeline = new Timeline(new Keyframe(Duration.millis), e -> {
+
+});
+```
+Animation timer

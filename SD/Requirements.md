@@ -32,7 +32,6 @@ If it is too short it fails. Can't explain it better.
 
 ## Use-case diagram and priorities
 #### Diagram
-
 **System
 - Visualized as a rectangle
 - Could be a website, business process, etc

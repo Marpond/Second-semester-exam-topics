@@ -5,7 +5,5 @@ The logical architecture is the large scale organization of software classes int
 Grouping of classes, packages or subsystems that has cohesive responsibility for a major aspect of the system. They are organized such that **higher** layers call upon services of **lower** layers and normally vice versa.
 
 ## Java packages
-1. A grouping of classes, interfaces, enums, records, etc.
-2. It provides access protection and namespace management.
-3. They prevent naming conflicts.
-4. Makes the code-base tidier.
+A grouping of classes, interfaces, enums, records, etc.
+It provides access protection and namespace management, prevents naming conflicts, also the code is tidier.

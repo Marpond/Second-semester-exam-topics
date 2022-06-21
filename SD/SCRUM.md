@@ -66,4 +66,4 @@ A sprint backlog only includes what needs to be done during the specific sprint.
 
 
 ## Prioritization
-Prioritization is done by the product owner in the first sprint planning meeting.
+Scrum uses value-based prioritization.

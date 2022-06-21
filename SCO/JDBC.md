@@ -21,7 +21,7 @@ ResultSet rs = ps.executeQuery("SELECT * FROM Books");
 The basic loop for analyzing a result set looks like this:
 ```java
 while (rs.next()) {
-look at a row of the result set
+	look at a row of the result set
 }
 ```
 

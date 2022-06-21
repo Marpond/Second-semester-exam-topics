@@ -1,15 +1,9 @@
 ## Authentication/Authorization
-The Database Engine’s security system includes two different security subsystems:
-1. Windows security
-	- Operating system level security
-2. Database Engine security
-	- System level security, defines an SQL Server login
-
 1. **Windows authentication**
 OS level security, logging in can be done with a Windows account.
 
 2. **SQL Server authentication**
-Created within the system and is associated with a password, mostly used for backward compatibility.
+System level security, created within the system and is associated with a password, mostly used for backward compatibility.
 
 **Database Engine authentication modes**
 1. Windows mode (trusted mode)

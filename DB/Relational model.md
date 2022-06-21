@@ -2,10 +2,10 @@ The relational model is an approach to managing data. All data is represented in
 
 ## **E/R Model**
 
-####  Entity
+#### Entity
 An irl thing (physical or conceptual existence).
 
-#####  Attributes
+##### Attributes
 Properties that describe the entities.
 Types:
 1.  Simple

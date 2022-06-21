@@ -52,7 +52,7 @@ Disciplines are a set of activities, for example:
 
 ## UP artifacts and timing
 **Artifact**
-An artifact is the general term for any work product: code, database schema, diagrams, modules, models, etc. They are considered optional, and should be dropped if their worth is not proved. The point of an artifact is not the document or diagram itself, but the thinking, analysis and proactive readiness.
+An artifact is the general term for any work product: code, database schema, diagrams, modules, models, etc. 
 
 **Timing**
 I would guess it's timeboxing.

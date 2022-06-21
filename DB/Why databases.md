@@ -34,8 +34,6 @@ When different and conflicting versions of the same data appear in different pla
 1. A collection of programs that manage the database structure and control access to the data stored in the database.
 2. It is the intermediary between the user and the database.
 3. Enables the data to be shared among many applications/users.
-4. Integrates different views of the data into one data repository.
-5. Minimizes data inconsistency.
 
 **Functions (not all)**
 1. Data dictionary management

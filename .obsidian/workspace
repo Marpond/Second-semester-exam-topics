@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JAVA/JavaFX.md",
+            "file": "JAVA/Objects, methods and inheritance.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "XY",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/JavaFX.md",
+                "file": "JAVA/Objects, methods and inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "809540f0c7825e8a",
   "lastOpenFiles": [
-    "JAVA/JavaFX.md",
-    "JAVA/Input and Output.md",
-    "JAVA/General topics.md",
-    "DB/Why databases.md",
-    "JAVA/Polymorphism and flexibility.md",
-    "JAVA/Sorting and searching.md",
-    "JAVA/Processes and threads.md",
-    "JAVA/Collections.md",
     "JAVA/Objects, methods and inheritance.md",
-    "SD/SCRUM.md"
+    "JAVA/General topics.md",
+    "SD/Development ideas.md",
+    "SCO/Stored procedures.md",
+    "SCO/Views.md",
+    "SCO/Security and permissions.md",
+    "SCO/Unit testing.md",
+    "OS/Memory management.md",
+    "OS/Scheduler.md",
+    "OS/Processes and threads.md"
   ]
 }
