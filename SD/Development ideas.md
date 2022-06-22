@@ -28,7 +28,7 @@ Waterfall is based on a sequential design process. There is only one phase of de
 The key idea is that iterations are timeboxed, or in other words fixed in length. Normally an iteration should take between 2 to 6 weeks. Anything below the minimum would result in an unfinished iteration, or anything above the maximum would make the iteration too complex and the feedback would be delayed. For very large teams however, there were cases where each iteration lasted 6 months. If some requirements were not finished in said iteration, it should be pushed to the next one instead of delaying the release.
 
 ## Agile development
-
+![](Pasted%20image%2020220622191656.png)
 
 ## UP phases and disciplines
 **Phases

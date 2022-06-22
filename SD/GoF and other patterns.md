@@ -1,6 +1,6 @@
 ## Singleton
 When only one instance of the class is needed.
-Define a static method of the class the returns the singleton.
+Define a static method of the class that returns the singleton.
 
 ## Adapter
 Resolves incompatible interfaces, or provides a stable interface to similar components with different interfaces by converting the original interface of a component into another interface, through an intermediate adapter object.

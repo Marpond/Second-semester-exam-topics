@@ -68,4 +68,6 @@ An informal, general explanation of a software feature written from the perspect
 	- "#" protected
 3. Methods
 	- -II-
-1. Optional: additional components
+4. Optional: additional components
+
+![](Pasted%20image%2020220622215157.png)

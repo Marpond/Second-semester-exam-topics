@@ -31,3 +31,9 @@ System.out.printf("%-10s%10.2f", items[i] + ":", prices[i]);
 
 ## Exception handling
 There are two aspects to dealing with exceptions: detection and handling.
+
+## Errors
+**Runtime error:
+- The JVM detects the error while the program is running. To handle these errors we can apply exception handling.
+**Compile time error:
+- The compiler detects the errors, the program is unable to run because of something incorrect (missing semicolon, bracket, class not found, etc).

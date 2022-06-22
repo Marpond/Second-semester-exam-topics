@@ -18,8 +18,7 @@ public class BankAccount {
 balanceChangeLock.lock();
 try {
 	Manipulate the shared resource.
-}
-finally {
+} finally {
 	balanceChangeLock.unlock();
 }
 ```

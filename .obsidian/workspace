@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SD/Requirements.md",
+            "file": "OS/Numbering systems and logic.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SD/Requirements.md",
+                "file": "OS/Numbering systems and logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "809540f0c7825e8a",
   "lastOpenFiles": [
+    "OS/Numbering systems and logic.md",
+    "JAVA/Input and Output.md",
+    "JAVA/Sorting and searching.md",
+    "JAVA/JavaFX.md",
+    "JAVA/Objects, methods and inheritance.md",
+    "JAVA/Processes and threads.md",
     "SD/Requirements.md",
-    "SD/Documenting design.md",
-    "SD/SSD.md",
-    "SD/Architecture.md",
     "SD/Domain modeling.md",
-    "Todo.md",
     "SD/Development ideas.md",
-    "SD/SCRUM.md",
-    "DB/Normalization.md",
-    "DB/Relational model.md"
+    "Todo.md"
   ]
 }
