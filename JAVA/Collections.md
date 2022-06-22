@@ -48,11 +48,11 @@ q.add(new WorkOrder(2, "Order cleaning supplies"));
 
 **Set**
 Doesn't allow duplicates.
-- **HashSet**
+- **Hash**
 Provides set implementations with hash table. Set elements are grouped into smaller collections that share the same characteristics.
 To use a hash set the elements inside need a *hashCode* and *equals* method. If all elements are distinct they can inherit the methods from the *Object* class. 
-- **TreeSet**
-Elements are kept in sorted order, and in nodes, in a tree shape. It must be possible to compare elements and determine which one is larger, because of binary search.
+- **Tree**
+Elements are kept in sorted order, and in nodes, in a tree shape. It must be possible to *compare* elements and determine which one is *larger*, because of binary search.
 
 **Map**
 Manages associations between keys and values.

@@ -24,11 +24,9 @@ A description class is useful when:
 A multiplicity defines how many instances of class A can be associated with one instance of class B.
 
 ## Attribute or class
-**Attribute**
-An attribute is a logical data value of an object.
 
 ## Purpose of domain model
 It's a way to describe and model real world entities and the relationships between them.
 
 ## UML class diagrams
-Used to illustrate classes, interfaces, and their associations. Used for static object modeling.
+Used to illustrate classes, interfaces, and their associations in object oriented systems. Used for static object modeling.

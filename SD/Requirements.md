@@ -12,13 +12,9 @@ A collection of related success and failure scenarios that describe actors using
  
 ## Use-case formats
 
-**Brief**
-
-
-**Casual**
-
-
-**Fully dressed**
+1. **Brief**
+2. **Casual**
+3. **Fully dressed**
 
 ## Tests for use-case validity
 **The boss test**
@@ -45,15 +41,15 @@ If it is too short it fails. Can't explain it better.
 - Visualized as an oval thingy
 
 **Relationships
-- Association
+1. Association
 	- Visualized with a normal line
-- Include
+2. Include
 	- Visualized with a dashed line (from base to included)
 	- Dependency between a base and an included use-case
-- Extend
+3. Extend
 	- Visualized with a dashed line (from extended to base)
 	- If base is executed the extended *might* be executed
-- Inheritance
+4. Inheritance
 	- Visualized as a normal line with a triangle (from children to parent)
 	- The children share the common behavior of the parent but they add something more
 
@@ -64,4 +60,12 @@ An informal, general explanation of a software feature written from the perspect
 
 ## StartUp use case
 
-## Basic  UML notation
+## Basic UML notation
+1. Class name
+2. Attributes
+	- "+" public
+	- "-" private
+	- "#" protected
+3. Methods
+	- -II-
+1. Optional: additional components

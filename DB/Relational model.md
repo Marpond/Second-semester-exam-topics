@@ -8,12 +8,12 @@ An irl thing (physical or conceptual existence).
 ##### Attributes
 Properties that describe the entities.
 Types:
-1.  Simple
-2.  Composite
-3.  Single-value
-4.  Multi-valued
-5.  Derived
-6.  Stored
+1.  Simple (Can't be further divided: Weight)
+2.  Composite (Can be divided: Name)
+3.  Single-value (Age)
+4.  Multi-valued (Languages known)
+5.  Derived (Can be derived from other attributes: Age (from DoB))
+6.  Stored (Date of birth)
 
 ##### Attribute domain
 Set of values allowed in an attribute.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JAVA/Objects, methods and inheritance.md",
+            "file": "SD/Requirements.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Objects, methods and inheritance.md",
+                "file": "SD/Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "809540f0c7825e8a",
   "lastOpenFiles": [
-    "JAVA/Objects, methods and inheritance.md",
-    "JAVA/General topics.md",
+    "SD/Requirements.md",
+    "SD/Documenting design.md",
+    "SD/SSD.md",
+    "SD/Architecture.md",
+    "SD/Domain modeling.md",
+    "Todo.md",
     "SD/Development ideas.md",
-    "SCO/Stored procedures.md",
-    "SCO/Views.md",
-    "SCO/Security and permissions.md",
-    "SCO/Unit testing.md",
-    "OS/Memory management.md",
-    "OS/Scheduler.md",
-    "OS/Processes and threads.md"
+    "SD/SCRUM.md",
+    "DB/Normalization.md",
+    "DB/Relational model.md"
   ]
 }
